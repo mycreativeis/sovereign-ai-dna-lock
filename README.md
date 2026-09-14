@@ -12,7 +12,7 @@ The safety vector is not an enforced external policy; it is the absolute prerequ
 
 ---
 
-##  Key Architectural Pillars (প্রধান ৪টি সুরক্ষাবলয়)
+##  Key Architectural Pillars
 
 1. **Targeted Sub-Model Kill Switch:** Instantly isolates and terminates the specific rogue AI agent's ID while keeping parallel compliant models operational.
 2. **Positive-Only Ledger Memory:** Restricts the AI's persistent memory to positive actions. It is mathematically incapable of learning or optimizing based on hacking history or malice.
